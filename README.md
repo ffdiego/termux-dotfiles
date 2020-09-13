@@ -1,2 +1,2 @@
-# termux-scripts
-run **install.sh** to install.
+# termux-dotfiles
+run **./install** to install the necessary dependencies
