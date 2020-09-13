@@ -1,0 +1,2 @@
+# Default Output Directory and Pattern
+-o ~/storage/downloads/%(title)s-%(id)s.%(ext)s

@@ -1,0 +1,4 @@
+#!/bin/bash
+url=$1
+youtube-dl $url
+termux-notification --title "YouTube-DL" --content "Completed: $url"
